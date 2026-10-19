@@ -1,0 +1,16 @@
+{
+  "appId": "com.lunchmate.app",
+  "appName": "LunchMate",
+  "webDir": "www",
+  "backgroundColor": "#2a93ee",
+  "android": {
+    "backgroundColor": "#2a93ee"
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_lunchmate",
+      "iconColor": "#2a93ee",
+      "sound": "reminder.wav"
+    }
+  }
+}
